@@ -1,0 +1,10 @@
+Steps
+
+Use OCR to separte the letters and bucket them into small and capital letters, alphabets and a set of symbols
+Same pixel size
+
+Create arrays for each of the above buckets
+
+Create a dictionary where key is the letter and array is the list of image paths 
+
+Use a randomizer
